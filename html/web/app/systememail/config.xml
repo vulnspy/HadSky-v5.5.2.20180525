@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<app>
+	<name>系统邮件插件</name>
+	<type>app</type>
+	<dir>systememail</dir>
+	<version>v1.2.20180410</version>
+	<users>1</users>
+	<author>puyuetian</author>
+	<link>http://www.hadsky.com</link>
+	<description>论坛邮件功能驱动插件。</description>
+</app>

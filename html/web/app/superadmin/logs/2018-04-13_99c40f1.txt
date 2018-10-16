@@ -1,0 +1,9 @@
+OperatingTime	UID	RequestURI
+10:30:21	1	http://localhost/hadsky3 publish/upload/index.php?c=app&a=superadmin:index
+10:30:23	1	http://localhost/hadsky3 publish/upload/index.php?c=app&a=superadmin:index&s=nav
+10:30:24	1	http://localhost/hadsky3 publish/upload/index.php?c=app&a=superadmin:index&s=home&t=info
+10:30:25	1	http://localhost/hadsky3 publish/upload/index.php?c=app&a=superadmin:index&s=api&url=http%3A%2F%2Fwww.hadsky.com%2Findex.php%3Fc%3Dapp%26a%3Dzhanzhang%3Aindex3%26s%3Dgetnotice
+10:30:57	1	http://localhost/hadsky3 publish/upload/index.php?c=app&a=superadmin:index&s=forum&t=list
+10:30:59	1	http://localhost/hadsky3 publish/upload/index.php?c=app&a=superadmin:index&s=forum&t=list&bkdata=yes
+10:31:29	1	http://localhost/hadsky3 publish/upload/index.php?c=app&a=superadmin:index&s=app&t=systememail
+10:32:50	1	http://localhost/hadsky3 publish/upload/index.php?c=app&a=superadmin:index&s=app&t=hadskycloudserver
